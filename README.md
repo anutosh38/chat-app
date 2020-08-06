@@ -5,6 +5,10 @@ follow these
 npm install
 npm run dev
 
+Go to localhost:3000
+```
+
+
 <img
 src=“screenshots/1.png”
 raw=true
@@ -42,7 +46,5 @@ style=“margin-right: 10px;”
 
 
 
-Go to localhost:3000
-```
 
 
